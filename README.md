@@ -1,5 +1,6 @@
 # SecretaryApp
 For anybody who is a secretary and wants to make life easier. 
+(Just so you know, it's filled with bugs right now, so it's unusable...)
 
 Stuff that needs fixing: 
 How to format at the end()
